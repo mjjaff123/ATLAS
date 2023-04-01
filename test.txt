@@ -8,3 +8,5 @@ techademy
 techademy
 
 techademy
+
+Hi, my first commit.
